@@ -14,6 +14,6 @@ Open Trails
 
 ### More Information
 
-* [User Stories](docs/user-stories.md)
-* [Wireframes](docs/wireframes.md)
-* [Ground Rules](docs/ground-rules.md)
+* [User Stories](user-stories.md)
+* [Wireframes](wireframes.md)
+* [Ground Rules](ground-rules.md)
