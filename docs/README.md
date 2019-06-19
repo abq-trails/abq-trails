@@ -1,4 +1,4 @@
-#### by [Alana Chigbrow](https://github.com/achigbrow), [Anita Martin](https://github.com/anita-martin5703), [Denelle BrittonLinebarger](https://github.com/DBrittonLinebarger), and [djpn](https://github.com/djpn/)
+#### by [Alana Chigbrow](https://github.com/achigbrow), [Anita Martin](https://github.com/anita-martin5703), [Denelle BrittonLinebarger](https://github.com/DBrittonLinebarger), and [DJP Nelson](https://github.com/djpn/)
 
 ### Summary
 
