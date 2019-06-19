@@ -31,6 +31,6 @@ We plan to use the following data sources and services:
 
 ### More Information
 
-* [User Stories](user-stories.md)
-* [Wireframes](wireframes.md)
-* [Ground Rules](ground-rules.md)
+* [User Stories](docs/user-stories.md)
+* [Wireframes](docs/wireframes.md)
+* [Ground Rules](docs/ground-rules.md)
