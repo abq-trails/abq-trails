@@ -1,0 +1,9 @@
+Below, in a .png file, you will find the ERD for the front of of ABQ Trails.
+The first shows the process a user will use to explore available trails on the map and get a Quick View pop up for the trail marker they tap on.
+The second shows the screen a user will come to if they either long press a trail marker or tap on the quick view pop-up belonging to the immediately previously selected trail marker. 
+
+![ABQTrailsERDfrontEndver1](ABQTrailsERDfrontEndver1.png)
+
+We also have the same image available in a PDF format in the link below.
+
+[PDF Rendering](ABQTrailsERDfrontEndver1.pdf)
