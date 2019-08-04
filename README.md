@@ -27,11 +27,11 @@ The user app (currently planned for implementation on the Android platform) woul
 
 ## External data & services
 
-We plan to use the following data sources and services:
-
 * Albuquerque Open Space and Open Trails datasets.
 * Google Maps API.
-* Google Sign-In for authentication (unauthenticated users will still be able to browse, but not post comments, ratings, or photos).  
+* Google Sign-In for authentication (unauthenticated users will still be able to browse, but not post comments, ratings, or photos).    
+
+
 
 
 ### Links
