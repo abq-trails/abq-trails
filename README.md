@@ -31,9 +31,10 @@ We plan to use the following data sources and services:
 
 * Albuquerque Open Space and Open Trails datasets.
 * Google Maps API.
-* Google Sign-In for authentication (unauthenticated users will still be able to browse, but not post comments, ratings, or photos).
+* Google Sign-In for authentication (unauthenticated users will still be able to browse, but not post comments, ratings, or photos).  
 
-### More Information
+
+### Links
 
 * [User Stories](docs/user-stories.md)
 * [Wireframes](docs/wireframes.md)
