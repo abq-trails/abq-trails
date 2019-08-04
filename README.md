@@ -1,4 +1,8 @@
-### by [Alana Chigbrow](https://github.com/achigbrow), [Anita Martin](https://github.com/anita-martin5703), [Denelle Linebarger](https://github.com/DBrittonLinebarger), and [David Nelson](https://github.com/djpn/)
+### Team Roster 
+[Alana Chigbrow](https://github.com/achigbrow)   
+[Anita Martin](https://github.com/anita-martin5703) 
+[Denelle Linebarger](https://github.com/DBrittonLinebarger)   
+[David Nelson](https://github.com/djpn/)
 
 ## Summary
 
