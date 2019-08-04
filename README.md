@@ -1,7 +1,7 @@
 ### Team Roster 
 [Alana Chigbrow](https://github.com/achigbrow)   
-[Anita Martin](https://github.com/anita-martin5703) 
-[Denelle Linebarger](https://github.com/DBrittonLinebarger)   
+[Anita Martin](https://github.com/anita-martin5703)   
+[Denelle Britton Linebarger](https://github.com/DBrittonLinebarger)   
 [David Nelson](https://github.com/djpn/)
 
 ## Summary
