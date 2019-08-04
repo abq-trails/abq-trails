@@ -25,12 +25,31 @@ The cloud side of this system (currently expected to be implemented using the Sp
 
 The user app (currently planned for implementation on the Android platform) would provide a browsing/searching interface to the dataset of open space trails, as well as a Google Maps-based view of their locations. If there's a live connection to the cloud side of the system, comments, ratings, and photos would also be available. (Currently, we plan to access the Albuquerque Open Space and Open Trails datasets directly from the user app, so that there would be some functionality available, even if the server side of the system is down.)
 
+
+## Functional Inventory  
+
+### Back End  
+
+
+### Front End  
+
+## Current State of Completion  
+
+
+## Aesthetic/Cosmetic Improvements for Front End  
+
+## Functional Stretch Goals  
+
+
+## Platforms Used/Restrictions   
+
+
+
 ## External data & services
 
 * Albuquerque Open Space and Open Trails datasets.
 * Google Maps API.
 * Google Sign-In for authentication (unauthenticated users will still be able to browse, but not post comments, ratings, or photos).    
-
 
 
 
@@ -40,4 +59,12 @@ The user app (currently planned for implementation on the Android platform) woul
 * [Wireframes](docs/wireframes.md)
 * [Ground Rules](docs/ground-rules.md)
 * [Front End ERD](docs/erd-front-end.md)
-* [Back End ERD](docs/erd-back-end.md)
+* [Back End ERD](docs/erd-back-end.md)  
+* DDL
+* Licenses/Copyrights  
+* Javadoc  
+* Documentation for Web Services  
+* Build and Deployment Instructions for Back End/Front End  
+* Basic User Instructions  
+
+
