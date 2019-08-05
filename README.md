@@ -33,8 +33,8 @@ The user app (currently planned for implementation on the Android platform) woul
 - Apache HTTP server  ??
 - Apache Tomcat Java Application server/container  ??
 - Web service application, incorporation:  
-\* \ Data model    
-  \.\ Embedded Apache Derby database ??
+\* Data model    
+  * Embedded Apache Derby database ??
 
 
 OMG CORBA API ??
