@@ -28,10 +28,43 @@ The user app (currently planned for implementation on the Android platform) woul
 
 ## Functional Inventory  
 
-### Back End  
+### Back End    
+
+- Apache HTTP server  ??
+- Apache Tomcat Java Application server/container  ??
+- Web service application, incorporation:  
+\* \ Data model    
+  \.\ Embedded Apache Derby database ??
 
 
-### Front End  
+OMG CORBA API ??
+
+#### Third Party Libraries
+* Room Persistence Library  
+* Stetho    
+* Spring Framework
+* Gson ??  
+* MySQL    
+* Jackson  
+* GeoJson  
+
+
+
+
+
+### Front End    
+
+#### Third Party Libraries
+* Room Persistence Library  
+* Stetho  
+* Gson  
+* Reactivex  
+* Retrofit2
+* RxJava ??  
+* Espresso ??  
+* SQL Lite ??
+
+
 
 ## Current State of Completion  
 
@@ -41,7 +74,16 @@ The user app (currently planned for implementation on the Android platform) woul
 ## Functional Stretch Goals  
 
 
-## Platforms Used/Restrictions   
+## Platforms Used/Restrictions
+
+
+### API Versions and Hardware   
+* Compiled Sdk version 28 ??  
+* Minimum Sdk version 21  
+* Targeted Sdk version 29  
+* Version code 1  
+* VersionName "1.0"  
+* Emulator: Nexus 5X API 28 ?? others??  
 
 
 
