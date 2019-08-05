@@ -51,7 +51,7 @@ The user app (currently planned for implementation on the Android platform) woul
 
 OMG CORBA API ??
 
-- Third Party Libraries
+- Third Party Libraries  
         * Room Persistence Library        
         * Stetho      
         * Spring Framework  
