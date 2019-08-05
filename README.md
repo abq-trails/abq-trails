@@ -39,15 +39,15 @@ The user app (currently planned for implementation on the Android platform) woul
       * Custom entity classes   
       * Spring Boot Data    
       * Custom data repository interfaces    
- * Service Controllers  
-   * Spring MVC  
-   * Custom controller classes  
- * View Composition & serialization  
-   * Jacskon JSON  
-   * Custom view classes and interfaces  
- * Authentication  
-   * Spring Security  
-   * Google Sign In
+   * Service Controllers  
+       * Spring MVC  
+       * Custom controller classes  
+   * View Composition & serialization  
+      * Jacskon JSON  
+       * Custom view classes and interfaces  
+   * Authentication  
+        * Spring Security  
+        * Google Sign In
 
 
 OMG CORBA API ??
@@ -64,17 +64,18 @@ OMG CORBA API ??
 
 ### Front End   
 
-\* Data model 
-  * Custom entity classes 
+* Web service application incorporating
+    * Data model 
+      * Custom entity classes 
 
-\* Service controllers   
-  * Custom controller classes  
+   * Service controllers   
+      * Custom controller classes  
 
-\* View composition and serialization 
-  * Custom view classes and interfaces
+   * View composition and serialization 
+      * Custom view classes and interfaces
 
-\* Authentication  
-  * Google Sign In
+   * Authentication  
+      * Google Sign In
 
 
 
