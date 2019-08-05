@@ -33,19 +33,19 @@ The user app (currently planned for implementation on the Android platform) woul
 - Apache HTTP server  ??
 - Apache Tomcat Java Application server/container  ??
 - Web service application, incorporating:  
-\* Data model    
+* Data model    
   * Embedded Apache Derby database ??
   * Hibernate ORM  
   * Custom entity classes 
   * Spring Boot Data  
   * Custom data repository interfaces  
-\* Service Controllers  
+* Service Controllers  
   * Spring MVC  
   * Custom controller classes  
-\* View Composition & serialization  
+* View Composition & serialization  
   * Jacskon JSON  
   * Custom view classes and interfaces  
-\* Authentication  
+* Authentication  
   * Spring Security  
   * Google Sign In
 
