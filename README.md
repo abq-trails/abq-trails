@@ -34,11 +34,11 @@ The user app (currently planned for implementation on the Android platform) woul
 - Apache Tomcat Java Application server/container  ??
 - Web service application, incorporating:   
     * Data model    
-     * Embedded Apache Derby database ??
-      * Hibernate ORM  
-      * Custom entity classes 
-      * Spring Boot Data  
-      * Custom data repository interfaces  
+      * Embedded Apache Derby database ??
+      * Hibernate ORM    
+      * Custom entity classes   
+      * Spring Boot Data    
+      * Custom data repository interfaces    
  * Service Controllers  
    * Spring MVC  
    * Custom controller classes  
