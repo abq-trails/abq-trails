@@ -34,7 +34,6 @@ The user app (currently planned for implementation on the Android platform) woul
 - Apache Tomcat Java Application server/container  ??
 - Web service application, incorporating:   
     * Data model    
-      * Embedded Apache Derby database ??
       * Hibernate ORM    
       * Custom entity classes   
       * Spring Boot Data    
@@ -46,7 +45,7 @@ The user app (currently planned for implementation on the Android platform) woul
       * Jacskon JSON  
        * Custom view classes and interfaces  
    * Authentication  
-        * Spring Security  
+        * Spring Security ?  
         * Google Sign In
 
 
@@ -79,15 +78,13 @@ OMG CORBA API ??
 
 
 
-
 * Third Party Libraries
       * Room Persistence Library  
       * Stetho  
       * Gson  
       * Reactivex  
       * Retrofit2
-      * RxJava ??  
-      * Espresso ??  
+      * RxJava  
       * SQL Lite ??
 
 
@@ -104,12 +101,12 @@ OMG CORBA API ??
 
 
 ### API Versions and Hardware   
-* Compiled Sdk version 28 ??  
+* Compiled Sdk version 29  
 * Minimum Sdk version 21  
 * Targeted Sdk version 29  
 * Version code 1  
 * VersionName "1.0"  
-* Emulator: Nexus 5X API 28 ?? others??  
+* Emulator: Nexus 5X API 28  
 
 
 
@@ -133,7 +130,9 @@ OMG CORBA API ??
 * Javadoc  
 * Documentation for Web Services   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
-* [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)
+* [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
+* [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
+* [Android 'Room Database Documentation](https://developer.android.com/topic/libraries/architecture/room)  
 * Build and Deployment Instructions for Back End/Front End  
 * Basic User Instructions  
 
