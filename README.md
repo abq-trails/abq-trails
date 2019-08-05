@@ -132,7 +132,8 @@ OMG CORBA API ??
 * Licenses/Copyrights  
 * Javadoc  
 * Documentation for Web Services   
-* [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)
+* [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
+* [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)
 * Build and Deployment Instructions for Back End/Front End  
 * Basic User Instructions  
 
