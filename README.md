@@ -53,13 +53,13 @@ The user app (currently planned for implementation on the Android platform) woul
 OMG CORBA API ??
 
 - Third Party Libraries
-       * Room Persistence Library  
-         * Stetho    
-         * Spring Framework
-         * Gson ??  
-         * MySQL    
-* Jackson  
-* GeoJson  
+        * Room Persistence Library      
+        * Stetho      
+        * Spring Framework  
+        * Gson ??    
+        * MySQL      
+        * Jackson  
+        * GeoJson  
 
 
 ### Front End   
@@ -80,15 +80,15 @@ OMG CORBA API ??
 
 
 
-#### Third Party Libraries
-* Room Persistence Library  
-* Stetho  
-* Gson  
-* Reactivex  
-* Retrofit2
-* RxJava ??  
-* Espresso ??  
-* SQL Lite ??
+* Third Party Libraries
+      * Room Persistence Library  
+      * Stetho  
+      * Gson  
+      * Reactivex  
+      * Retrofit2
+      * RxJava ??  
+      * Espresso ??  
+      * SQL Lite ??
 
 
 
