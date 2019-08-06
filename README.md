@@ -126,7 +126,7 @@ OMG CORBA API ??
 * [Front End ERD](docs/erd-front-end.md)
 * [Back End ERD](docs/erd-back-end.md)  
 * DDL
-* Licenses/Copyrights  
+* [Licenses/Copyrights](docs/licenses-and-copyright.md)
 * Javadoc  
 * Documentation for Web Services   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
