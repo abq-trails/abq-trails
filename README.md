@@ -127,6 +127,4 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
 * [Android 'Room Database Documentation](https://developer.android.com/topic/libraries/architecture/room)  
 * [Build and Deployment Instructions for Back End/Front End](docs/build_user_instructions.md)
-* Basic User Instructions  
-
-
+* [Basic User Instructions](docs/user_instructions.md)
