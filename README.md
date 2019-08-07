@@ -141,7 +141,7 @@ Please see the below sections for planned completion improvements.
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
 * [Clientside Javadoc](abq-trails-client-side/docs/api/overview-summary.html)
 * Javadoc
-* Documentation for Web Services   
+* [Documentation for Web Services](https://www.digitalocean.com/docs/)   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
 * [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
