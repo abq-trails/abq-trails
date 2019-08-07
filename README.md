@@ -89,12 +89,19 @@ The user app (implementated on the Android platform) provides a browsing/searchi
       * RxJava  
       
 
-## Current State of Completion  
+## Current State of Completion
 
 
-## Aesthetic/Cosmetic Improvements for Front End  
+## Aesthetic/Cosmetic Improvements for Front End
+- Hide the MapActivity while viewing a TrailViewFragment and the Subsequent UserRatingFragment
+- Make different trails noticeably different colors
+- Serachbar and button to work where it updates the markers shown based on user input
+- Add in a launcher Icon
 
-## Functional Stretch Goals  
+## Functional Stretch Goals
+ - Get the backend and the front end to communicate properly and accept front end sent user reviews.
+ - Disallow the user from sending more than one review per click of "Add a rating" found in the TrailViewFragment.
+ - Allow a user to go back from a specific trail view to the map so they can view a different trail's view.
 
 
 ## Platforms Used/Restrictions
@@ -125,11 +132,10 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [Ground Rules](docs/ground-rules.md)
 * [Front End ERD](docs/FrontEndERD080719.png)
 * [Back End ERD](docs/BackEndERD080719.png)  
-* [DDL for Client-side](docs/data-model.md)
+* DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
-* [Back End API](backendapi/apidocs/index-all.html)
-* Javadoc (Under Construction)
-* [Documentation for Web Services](https://www.digitalocean.com/docs/)   
+* Javadoc  
+* Documentation for Web Services   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
 * [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
