@@ -134,7 +134,8 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [Back End ERD](docs/BackEndERD080719.png)  
 * DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
-* Javadoc  
+* [Clientside Javadoc](abq-trails-client-side/docs/api/overview-summary.html)
+* Javadoc
 * Documentation for Web Services   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
