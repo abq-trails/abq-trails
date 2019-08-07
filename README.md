@@ -90,6 +90,11 @@ The user app (implementated on the Android platform) provides a browsing/searchi
       
 
 ## Current State of Completion
+The backend server's MySQL database is running on an external server located at abqtrails.chigbrowsoftware.com. We still need to deploy the entire backend to that server as the Spring application still needs to be run locally. Furthermore, we have to complete the tests which exist only as a framework as of this date.
+
+The app connects to the server and populates its room database from the back end server. It provides a map view with the trails displayed. You can click on a trail to open its individual view. That view is currently under construction.
+
+Please see the below sections for planned completion improvements.
 
 
 ## Aesthetic/Cosmetic Improvements for Front End
@@ -130,7 +135,7 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [User Stories](docs/user-stories.md)
 * [Wireframes](docs/wireframes.md)
 * [Ground Rules](docs/ground-rules.md)
-* [Front End ERD](docs/FrontEndERD080719.png)
+* [Front End ERD](docs/ERD for ABQ Trails - FINAL FE.png)
 * [Back End ERD](docs/BackEndERD080719.png)  
 * DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
