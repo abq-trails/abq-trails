@@ -116,8 +116,8 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [User Stories](docs/user-stories.md)
 * [Wireframes](docs/wireframes.md)
 * [Ground Rules](docs/ground-rules.md)
-* [Front End ERD](docs/erd-front-end.md)
-* [Back End ERD](docs/erd-back-end.md)  
+* [Front End ERD](docs/FrontEndERD080719.png)
+* [Back End ERD](docs/BackEndERD080719.png)  
 * DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
 * Javadoc  
