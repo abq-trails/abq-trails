@@ -125,7 +125,7 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [Ground Rules](docs/ground-rules.md)
 * [Front End ERD](docs/FrontEndERD080719.png)
 * [Back End ERD](docs/BackEndERD080719.png)  
-* [DDL for Client-side](docs/api/data-model.md)
+* [DDL for Client-side](api/data-model.md)
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
 * Javadoc  
 * Documentation for Web Services   
