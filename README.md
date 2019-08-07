@@ -127,8 +127,9 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [Back End ERD](docs/BackEndERD080719.png)  
 * [DDL for Client-side](docs/data-model.md)
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
-* Javadoc  
-* Documentation for Web Services   
+* [Back End API](backendapi/apidocs/index-all.html)
+* Javadoc (Under Construction)
+* [Documentation for Web Services](https://www.digitalocean.com/docs/)   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
 * [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
