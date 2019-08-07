@@ -135,7 +135,7 @@ Please see the below sections for planned completion improvements.
 * [User Stories](docs/user-stories.md)
 * [Wireframes](docs/wireframes.md)
 * [Ground Rules](docs/ground-rules.md)
-* [Front End ERD](docs/ERD for ABQ Trails - FINAL FE.png)
+* [Front End ERD](docs/finalfe.png)
 * [Back End ERD](docs/BackEndERD080719.png)  
 * DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
