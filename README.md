@@ -5,9 +5,9 @@
 [David Nelson](https://github.com/djpn/)  
 
 ## Primary Responsibilities  
- Alana Chigbrow: Backend Database  
+ Alana Chigbrow: Backend Database & Room DB
  Anita Martin: Google Maps with Trails    
- Denelle Britton Linebarger: Documentation/Trail Reviews    
+ Denelle Britton Linebarger: Documentation & Trail Reviews    
  David Nelson: Trail View   
  
 
