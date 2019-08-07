@@ -30,8 +30,6 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 
 ### Back End    
 
-- Apache HTTP server  ??
-- Apache Tomcat Java Application server/container  ??
 - Web service application, incorporating:   
     * Data model    
       * Hibernate ORM    
@@ -45,17 +43,14 @@ The user app (implementated on the Android platform) provides a browsing/searchi
       * Jacskon JSON  
        * Custom view classes and interfaces  
    * Authentication  
-        * Spring Security ?  
+        * Spring Security  
         * Google Sign In
 
-
-OMG CORBA API ??
 
 - Third Party Libraries  
         * Room Persistence Library        
         * Stetho      
-        * Spring Framework  
-        * Gson ??    
+        * Spring Framework      
         * MySQL      
         * Jackson  
         * GeoJson  
@@ -85,9 +80,7 @@ OMG CORBA API ??
       * Reactivex  
       * Retrofit2  
       * RxJava  
-      * SQL Lite ??
-
-
+      
 
 ## Current State of Completion  
 
