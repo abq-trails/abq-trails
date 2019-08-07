@@ -137,7 +137,7 @@ Please see the below sections for planned completion improvements.
 * [Ground Rules](docs/ground-rules.md)
 * [Front End ERD](docs/finalfe.png)
 * [Back End ERD](docs/BackEndERD080719.png)  
-* [Clientdside DDL](abq-trails-client-side/docs/data-model.md)
+* [Clientdside DDL](abq-trails-client-side/docs/data-model.html)
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
 * [Clientside Javadoc](abq-trails-client-side/docs/api/overview-summary.html)
 * [Back End Javadoc](abq-trails-serverside/target/apidocs/overview-summary.html)
