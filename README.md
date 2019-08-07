@@ -126,7 +126,7 @@ The user app (implementated on the Android platform) provides a browsing/searchi
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
 * [Google Maps Documentation](https://developers.google.com/maps/documentation/android-sdk/intro)  
 * [Android 'Room Database Documentation](https://developer.android.com/topic/libraries/architecture/room)  
-* Build and Deployment Instructions for Back End/Front End  
+* [Build and Deployment Instructions for Back End/Front End](docs/build_user_instructions.md)
 * Basic User Instructions  
 
 
