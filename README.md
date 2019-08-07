@@ -2,7 +2,14 @@
 [Alana Chigbrow](https://github.com/achigbrow)   
 [Anita Martin](https://github.com/anita-martin5703)   
 [Denelle Britton Linebarger](https://github.com/DBrittonLinebarger)   
-[David Nelson](https://github.com/djpn/)
+[David Nelson](https://github.com/djpn/)  
+
+## Primary Responsibilities  
+ Alana Chigbrow: Backend Database
+ Anita Martin: Google Maps with Trails  
+ Denelle Britton Linebarger: Documentation/Trail Reviews  
+ David Nelson: Trail View 
+ 
 
 ## Summary
 
