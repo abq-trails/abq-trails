@@ -9,6 +9,7 @@ Do this first!
 - Build the application once all imports/whatnot are complete
 	- If you get an error indicating that a bean factory could not be built, double check your connection to the MySQL database using database tools. This will be the cause.
 	- A few moments after the application has started, you should see the data import from CABQ begin. You should see SELECT trail followed by INSERT trail. This will build the table trails_table in db_trails. Subsequent builds will simply show SELECT trail unless CABQ makes a change to their data. 
+- Check the databases. If you have red underlines, right click on db_trails@abqtrails.chigbrowsoftware.com and click properties. The username and password are stored in the application properties. Look at the bottom to download any neccessary drivers. Test the connection. Click okay if you get a green check on the test. Contact the team if this does not fix the database issue for you.
 - Your database should now be up and running. Proceed to fork and clone/import ABQ Trails Client Side.
 
 
