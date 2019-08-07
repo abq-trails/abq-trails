@@ -140,7 +140,7 @@ Please see the below sections for planned completion improvements.
 * DDL
 * [Licenses/Copyrights](docs/licenses-and-copyrights.md)
 * [Clientside Javadoc](abq-trails-client-side/docs/api/overview-summary.html)
-* [Back End Javadoc](abq-trails.serverside/target/apidocs/overview-summary.html)
+* [Back End Javadoc](abq-trails-serverside/target/apidocs/overview-summary.html)
 * [Documentation for Web Services](https://www.digitalocean.com/docs/)   
 * [ABQ opentrails Dataset](http://data.cabq.gov/community/opentrails/trail_segments.geojson)  
 * [ABQ opentrails MetaData](http://data.cabq.gov/community/opentrails/MetaData.pdf/)  
